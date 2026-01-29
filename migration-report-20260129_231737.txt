@@ -1,0 +1,133 @@
+﻿Renamed folder: 'Арифметические операции' -> 'arifmeticheskie-operacii'
+Moved MD: 'Арифметические операции ba7357b08f374a3683273fb7316f6867.md' -> 'arifmeticheskie-operacii/index.md'
+Patched index.md for 'arifmeticheskie-operacii' (front matter + resource paths)
+Renamed folder: 'Базовые операции' -> 'bazovye-operacii'
+Moved MD: 'Базовые операции 439093b3ec964038a78d33a408aac5df.md' -> 'bazovye-operacii/index.md'
+Patched index.md for 'bazovye-operacii' (front matter + resource paths)
+Renamed folder: 'Включить отображение фото в каталоге товаров, если' -> 'vklyuchit-otobrazhenie-foto-v-kataloge-tovarov-esli'
+Moved MD: 'Включить отображение фото в каталоге товаров, если 51bbac177d024dce967319439e5e1152.md' -> 'vklyuchit-otobrazhenie-foto-v-kataloge-tovarov-esli/index.md'
+Patched index.md for 'vklyuchit-otobrazhenie-foto-v-kataloge-tovarov-esli' (front matter + resource paths)
+Renamed folder: 'Возможности и преимущества системы' -> 'vozmozhnosti-i-preimushchestva-sistemy'
+Moved MD: 'Возможности и преимущества системы 2a6309b7969c4c499d407cbc92bf05f8.md' -> 'vozmozhnosti-i-preimushchestva-sistemy/index.md'
+Patched index.md for 'vozmozhnosti-i-preimushchestva-sistemy' (front matter + resource paths)
+Renamed folder: 'Выгрузка ассортимента в МегаМаркет' -> 'vygruzka-assortimenta-v-megamarket'
+Moved MD: 'Выгрузка ассортимента в МегаМаркет 48d79b9b711f4a5b8432d24b0658a82d.md' -> 'vygruzka-assortimenta-v-megamarket/index.md'
+Patched index.md for 'vygruzka-assortimenta-v-megamarket' (front matter + resource paths)
+Renamed folder: 'Выгрузка данных' -> 'vygruzka-dannyh'
+Moved MD: 'Выгрузка данных 33ff609e82134fd68b0a73f1c1cf4fa0.md' -> 'vygruzka-dannyh/index.md'
+Patched index.md for 'vygruzka-dannyh' (front matter + resource paths)
+Renamed folder: 'Добавление пользователей' -> 'dobavlenie-polzovateley'
+Moved MD: 'Добавление пользователей 9ddeb7e6fe8444bd9f9f5b61e7d7da9f.md' -> 'dobavlenie-polzovateley/index.md'
+Patched index.md for 'dobavlenie-polzovateley' (front matter + resource paths)
+Renamed folder: 'Источники данных' -> 'istochniki-dannyh'
+Moved MD: 'Источники данных 4f2e7387f2df4430ae3aa03533b23d4c.md' -> 'istochniki-dannyh/index.md'
+Patched index.md for 'istochniki-dannyh' (front matter + resource paths)
+Renamed folder: 'Как обновить остатки товаров в каталоге Databird' -> 'kak-obnovit-ostatki-tovarov-v-kataloge-databird'
+Moved MD: 'Как обновить остатки товаров в каталоге Databird e0b2e0747def4f979bd57e3712d5b8c7.md' -> 'kak-obnovit-ostatki-tovarov-v-kataloge-databird/index.md'
+Patched index.md for 'kak-obnovit-ostatki-tovarov-v-kataloge-databird' (front matter + resource paths)
+Renamed folder: 'Как получить категорию товара из другого атрибута' -> 'kak-poluchit-kategoriyu-tovara-iz-drugogo-atributa'
+Moved MD: 'Как получить категорию товара из другого атрибута 8f52ae51a8ff4421b8cfe9d5d90a81b3.md' -> 'kak-poluchit-kategoriyu-tovara-iz-drugogo-atributa/index.md'
+Patched index.md for 'kak-poluchit-kategoriyu-tovara-iz-drugogo-atributa' (front matter + resource paths)
+Renamed folder: 'Как произвести выборочный экспорт товаров' -> 'kak-proizvesti-vyborochnyy-eksport-tovarov'
+Moved MD: 'Как произвести выборочный экспорт товаров 230737781a784b22b3199f40f509a63d.md' -> 'kak-proizvesti-vyborochnyy-eksport-tovarov/index.md'
+Patched index.md for 'kak-proizvesti-vyborochnyy-eksport-tovarov' (front matter + resource paths)
+Renamed folder: 'Настройка правил загрузки' -> 'nastroyka-pravil-zagruzki'
+Moved MD: 'Настройка правил загрузки b0b2d97cad3a4036896cecad534e9201.md' -> 'nastroyka-pravil-zagruzki/index.md'
+Patched index.md for 'nastroyka-pravil-zagruzki' (front matter + resource paths)
+Renamed folder: 'Настройка правил экспорта' -> 'nastroyka-pravil-eksporta'
+Moved MD: 'Настройка правил экспорта c30f8e3ce1464c91b12b00c21c6e73dd.md' -> 'nastroyka-pravil-eksporta/index.md'
+Patched index.md for 'nastroyka-pravil-eksporta' (front matter + resource paths)
+Renamed folder: 'Настройка синхронизации заказов и остатков' -> 'nastroyka-sinhronizacii-zakazov-i-ostatkov'
+Moved MD: 'Настройка синхронизации заказов и остатков 27ad4cb94e984e69b759a6a2782464b9.md' -> 'nastroyka-sinhronizacii-zakazov-i-ostatkov/index.md'
+Patched index.md for 'nastroyka-sinhronizacii-zakazov-i-ostatkov' (front matter + resource paths)
+Renamed folder: 'Настройка фильтров' -> 'nastroyka-filtrov'
+Moved MD: 'Настройка фильтров 67018db9aca848158452fe98eb821a4f.md' -> 'nastroyka-filtrov/index.md'
+Patched index.md for 'nastroyka-filtrov' (front matter + resource paths)
+Renamed folder: 'Настройка шаблона при подключении таблицы' -> 'nastroyka-shablona-pri-podklyuchenii-tablicy'
+Moved MD: 'Настройка шаблона при подключении таблицы 39c23750d2cf4cefbdb9ab50e01864f9.md' -> 'nastroyka-shablona-pri-podklyuchenii-tablicy/index.md'
+Patched index.md for 'nastroyka-shablona-pri-podklyuchenii-tablicy' (front matter + resource paths)
+Renamed folder: 'Настройки обновления каталога' -> 'nastroyki-obnovleniya-kataloga'
+Moved MD: 'Настройки обновления каталога 4a432f56c742406baef003c30958c39d.md' -> 'nastroyki-obnovleniya-kataloga/index.md'
+Patched index.md for 'nastroyki-obnovleniya-kataloga' (front matter + resource paths)
+Renamed folder: 'Объединение полей' -> 'obedinenie-poley'
+Moved MD: 'Объединение полей 475b7300b7ae488c80a4db78d81ad358.md' -> 'obedinenie-poley/index.md'
+Patched index.md for 'obedinenie-poley' (front matter + resource paths)
+Renamed folder: 'Операторы сравнения и условия' -> 'operatory-sravneniya-i-usloviya'
+Moved MD: 'Операторы сравнения и условия 81145fd2d94e4bc681feea181e3621be.md' -> 'operatory-sravneniya-i-usloviya/index.md'
+Patched index.md for 'operatory-sravneniya-i-usloviya' (front matter + resource paths)
+Renamed folder: 'Перенос карточки товара из OZON в Wildberries' -> 'perenos-kartochki-tovara-iz-ozon-v-wildberries'
+Moved MD: 'Перенос карточки товара из OZON в Wildberries b6b71cb81049496bb4d673c8f61c628a.md' -> 'perenos-kartochki-tovara-iz-ozon-v-wildberries/index.md'
+Patched index.md for 'perenos-kartochki-tovara-iz-ozon-v-wildberries' (front matter + resource paths)
+Renamed folder: 'Перенос карточки товара из Wildberries в OZON' -> 'perenos-kartochki-tovara-iz-wildberries-v-ozon'
+Moved MD: 'Перенос карточки товара из Wildberries в OZON 5a6c7520b2c042658836d3a45f74da6a.md' -> 'perenos-kartochki-tovara-iz-wildberries-v-ozon/index.md'
+Patched index.md for 'perenos-kartochki-tovara-iz-wildberries-v-ozon' (front matter + resource paths)
+Renamed folder: 'Подключение API источника' -> 'podklyuchenie-api-istochnika'
+Moved MD: 'Подключение API источника fcf8690cf8864e6ab748be1352977249.md' -> 'podklyuchenie-api-istochnika/index.md'
+Patched index.md for 'podklyuchenie-api-istochnika' (front matter + resource paths)
+Renamed folder: 'Подключение к 1С' -> 'podklyuchenie-k-1s'
+Moved MD: 'Подключение к 1С 0dcef1f272744a92aa0b4c07aa0dee5d.md' -> 'podklyuchenie-k-1s/index.md'
+Patched index.md for 'podklyuchenie-k-1s' (front matter + resource paths)
+Renamed folder: 'Подключение к Google таблицам' -> 'podklyuchenie-k-google-tablicam'
+Moved MD: 'Подключение к Google таблицам 264cd4f75a758058bceae1f85ce5182a.md' -> 'podklyuchenie-k-google-tablicam/index.md'
+Patched index.md for 'podklyuchenie-k-google-tablicam' (front matter + resource paths)
+Renamed folder: 'Подключение к Ozon' -> 'podklyuchenie-k-ozon'
+Moved MD: 'Подключение к Ozon 81f8f406d0e74baf842e55069b71c805.md' -> 'podklyuchenie-k-ozon/index.md'
+Patched index.md for 'podklyuchenie-k-ozon' (front matter + resource paths)
+Renamed folder: 'Подключение к Wildberries' -> 'podklyuchenie-k-wildberries'
+Moved MD: 'Подключение к Wildberries 86f42eb5b1b043fb8a21d84444bc2411.md' -> 'podklyuchenie-k-wildberries/index.md'
+Patched index.md for 'podklyuchenie-k-wildberries' (front matter + resource paths)
+Renamed folder: 'Подключение к МегаМаркет' -> 'podklyuchenie-k-megamarket'
+Moved MD: 'Подключение к МегаМаркет cabc87ea1a2845ec8e6bb4bf84d4ad76.md' -> 'podklyuchenie-k-megamarket/index.md'
+Patched index.md for 'podklyuchenie-k-megamarket' (front matter + resource paths)
+Renamed folder: 'Подключение к Яндекс Маркет' -> 'podklyuchenie-k-yandeks-market'
+Moved MD: 'Подключение к Яндекс Маркет aad930a691e24243994a4ea083d26e7b.md' -> 'podklyuchenie-k-yandeks-market/index.md'
+Patched index.md for 'podklyuchenie-k-yandeks-market' (front matter + resource paths)
+Renamed folder: 'Проверка загрузки' -> 'proverka-zagruzki'
+Moved MD: 'Проверка загрузки 3d910655b86d4b14a52afc4bee8c0c3c.md' -> 'proverka-zagruzki/index.md'
+Patched index.md for 'proverka-zagruzki' (front matter + resource paths)
+Renamed folder: 'Проверка экспорта' -> 'proverka-eksporta'
+Moved MD: 'Проверка экспорта f6ed5bb4a72143dead100cde18c96a63.md' -> 'proverka-eksporta/index.md'
+Patched index.md for 'proverka-eksporta' (front matter + resource paths)
+Renamed folder: 'Работа с каталогом' -> 'rabota-s-katalogom'
+Moved MD: 'Работа с каталогом d163899c1e0c418ab9c486e39982db52.md' -> 'rabota-s-katalogom/index.md'
+Patched index.md for 'rabota-s-katalogom' (front matter + resource paths)
+Renamed folder: 'Работа со словарями' -> 'rabota-so-slovaryami'
+Moved MD: 'Работа со словарями 3c50213a46c140f793468d8b5c28fadd.md' -> 'rabota-so-slovaryami/index.md'
+Patched index.md for 'rabota-so-slovaryami' (front matter + resource paths)
+Renamed folder: 'Связывание категорий' -> 'svyazyvanie-kategoriy'
+Moved MD: 'Связывание категорий 2d6664c987e34fef8e1a66fdeda48d36.md' -> 'svyazyvanie-kategoriy/index.md'
+Patched index.md for 'svyazyvanie-kategoriy' (front matter + resource paths)
+Renamed folder: 'Создание и редактирование словарей' -> 'sozdanie-i-redaktirovanie-slovarey'
+Moved MD: 'Создание и редактирование словарей 0917b2a474154eb4ad0f03ca4521b544.md' -> 'sozdanie-i-redaktirovanie-slovarey/index.md'
+Patched index.md for 'sozdanie-i-redaktirovanie-slovarey' (front matter + resource paths)
+Renamed folder: 'Создание копии источника с сохранением настроек ат' -> 'sozdanie-kopii-istochnika-s-sohraneniem-nastroek-at'
+Moved MD: 'Создание копии источника с сохранением настроек ат b7c5b990610249c48c8e8323cd1793da.md' -> 'sozdanie-kopii-istochnika-s-sohraneniem-nastroek-at/index.md'
+Patched index.md for 'sozdanie-kopii-istochnika-s-sohraneniem-nastroek-at' (front matter + resource paths)
+Renamed folder: 'Типы источников' -> 'tipy-istochnikov'
+Moved MD: 'Типы источников b5e2bee0a2fc4c1d9f472d9bf88d115e.md' -> 'tipy-istochnikov/index.md'
+Patched index.md for 'tipy-istochnikov' (front matter + resource paths)
+Renamed folder: 'Типы экспортов' -> 'tipy-eksportov'
+Moved MD: 'Типы экспортов 55f50dfa1c0743ac98f4eeabfe630c2d.md' -> 'tipy-eksportov/index.md'
+Patched index.md for 'tipy-eksportov' (front matter + resource paths)
+Renamed folder: 'Установка периода загрузки и выгрузки' -> 'ustanovka-perioda-zagruzki-i-vygruzki'
+Moved MD: 'Установка периода загрузки и выгрузки ae091356aa8d43db90f55a187b85afff.md' -> 'ustanovka-perioda-zagruzki-i-vygruzki/index.md'
+Patched index.md for 'ustanovka-perioda-zagruzki-i-vygruzki' (front matter + resource paths)
+Renamed folder: 'Что такое атрибуты системы' -> 'chto-takoe-atributy-sistemy'
+Moved MD: 'Что такое атрибуты системы 0fe77517d97c4b27a4a88e0761f6d4a8.md' -> 'chto-takoe-atributy-sistemy/index.md'
+Patched index.md for 'chto-takoe-atributy-sistemy' (front matter + resource paths)
+Renamed folder: 'Что такое идентификатор товара' -> 'chto-takoe-identifikator-tovara'
+Moved MD: 'Что такое идентификатор товара bce5090ad9ed40fe8c8be59d7c422f74.md' -> 'chto-takoe-identifikator-tovara/index.md'
+Patched index.md for 'chto-takoe-identifikator-tovara' (front matter + resource paths)
+Renamed folder: 'Что такое источник данных и экспорт' -> 'chto-takoe-istochnik-dannyh-i-eksport'
+Moved MD: 'Что такое источник данных и экспорт 9f9a222b4ab344e1a8850764790e2b53.md' -> 'chto-takoe-istochnik-dannyh-i-eksport/index.md'
+Patched index.md for 'chto-takoe-istochnik-dannyh-i-eksport' (front matter + resource paths)
+Renamed folder: 'Что такое правила' -> 'chto-takoe-pravila'
+Moved MD: 'Что такое правила 4450694526e84913822c98df9f2375e4.md' -> 'chto-takoe-pravila/index.md'
+Patched index.md for 'chto-takoe-pravila' (front matter + resource paths)
+Renamed folder: 'Что такое словари' -> 'chto-takoe-slovari'
+Moved MD: 'Что такое словари 5ab2571472a749bc846d9f7aac002c1e.md' -> 'chto-takoe-slovari/index.md'
+Patched index.md for 'chto-takoe-slovari' (front matter + resource paths)
+Renamed folder: 'Экспорты данных' -> 'eksporty-dannyh'
+Moved MD: 'Экспорты данных cf1ee31a29e74823b01b4bf20d97ce18.md' -> 'eksporty-dannyh/index.md'
+Patched index.md for 'eksporty-dannyh' (front matter + resource paths)
+Updated root index.md links
