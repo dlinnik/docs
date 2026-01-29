@@ -1,114 +1,47 @@
- # Документация Databird
+﻿# Documentation Databird
 
+ - [Арифметические операции](arifmeticheskie-operacii/)
+ - [Базовые операции](bazovye-operacii/)
+ - [Включить отображение фото в каталоге товаров, если](vklyuchit-otobrazhenie-foto-v-kataloge-tovarov-esli/)
+ - [Возможности и преимущества системы](vozmozhnosti-i-preimushchestva-sistemy/)
+ - [Выгрузка ассортимента в МегаМаркет](vygruzka-assortimenta-v-megamarket/)
+ - [Выгрузка данных](vygruzka-dannyh/)
+ - [Добавление пользователей](dobavlenie-polzovateley/)
+ - [Источники данных](istochniki-dannyh/)
+ - [Как обновить остатки товаров в каталоге Databird](kak-obnovit-ostatki-tovarov-v-kataloge-databird/)
+ - [Как получить категорию товара из другого атрибута](kak-poluchit-kategoriyu-tovara-iz-drugogo-atributa/)
+ - [Как произвести выборочный экспорт товаров](kak-proizvesti-vyborochnyy-eksport-tovarov/)
+ - [Настройка правил загрузки](nastroyka-pravil-zagruzki/)
+ - [Настройка правил экспорта](nastroyka-pravil-eksporta/)
+ - [Настройка синхронизации заказов и остатков](nastroyka-sinhronizacii-zakazov-i-ostatkov/)
+ - [Настройка фильтров](nastroyka-filtrov/)
+ - [Настройка шаблона при подключении таблицы](nastroyka-shablona-pri-podklyuchenii-tablicy/)
+ - [Настройки обновления каталога](nastroyki-obnovleniya-kataloga/)
+ - [Объединение полей](obedinenie-poley/)
+ - [Операторы сравнения и условия](operatory-sravneniya-i-usloviya/)
+ - [Перенос карточки товара из OZON в Wildberries](perenos-kartochki-tovara-iz-ozon-v-wildberries/)
+ - [Перенос карточки товара из Wildberries в OZON](perenos-kartochki-tovara-iz-wildberries-v-ozon/)
+ - [Подключение API источника](podklyuchenie-api-istochnika/)
+ - [Подключение к 1С](podklyuchenie-k-1s/)
+ - [Подключение к Google таблицам](podklyuchenie-k-google-tablicam/)
+ - [Подключение к Ozon](podklyuchenie-k-ozon/)
+ - [Подключение к Wildberries](podklyuchenie-k-wildberries/)
+ - [Подключение к МегаМаркет](podklyuchenie-k-megamarket/)
+ - [Подключение к Яндекс Маркет](podklyuchenie-k-yandeks-market/)
+ - [Проверка загрузки](proverka-zagruzki/)
+ - [Проверка экспорта](proverka-eksporta/)
+ - [Работа с каталогом](rabota-s-katalogom/)
+ - [Работа со словарями](rabota-so-slovaryami/)
+ - [Связывание категорий](svyazyvanie-kategoriy/)
+ - [Создание и редактирование словарей](sozdanie-i-redaktirovanie-slovarey/)
+ - [Создание копии источника с сохранением настроек ат](sozdanie-kopii-istochnika-s-sohraneniem-nastroek-at/)
+ - [Типы источников](tipy-istochnikov/)
+ - [Типы экспортов](tipy-eksportov/)
+ - [Установка периода загрузки и выгрузки](ustanovka-perioda-zagruzki-i-vygruzki/)
+ - [Что такое атрибуты системы](chto-takoe-atributy-sistemy/)
+ - [Что такое идентификатор товара](chto-takoe-identifikator-tovara/)
+ - [Что такое источник данных и экспорт](chto-takoe-istochnik-dannyh-i-eksport/)
+ - [Что такое правила](chto-takoe-pravila/)
+ - [Что такое словари](chto-takoe-slovari/)
+ - [Экспорты данных](eksporty-dannyh/)
 
-### Общие принципы
-
-[Возможности и преимущества системы](%D0%92%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%20%D0%BF%D1%80%D0%B5%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%202a6309b7969c4c499d407cbc92bf05f8.md)
-
-[Работа с каталогом](%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE%D0%BC%20d163899c1e0c418ab9c486e39982db52.md)
-
-[Что такое атрибуты системы?](%D0%A7%D1%82%D0%BE%20%D1%82%D0%B0%D0%BA%D0%BE%D0%B5%20%D0%B0%D1%82%D1%80%D0%B8%D0%B1%D1%83%D1%82%D1%8B%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%200fe77517d97c4b27a4a88e0761f6d4a8.md)
-
-[Что такое  источник данных и экспорт?](%D0%A7%D1%82%D0%BE%20%D1%82%D0%B0%D0%BA%D0%BE%D0%B5%20%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B8%20%D1%8D%D0%BA%D1%81%D0%BF%D0%BE%D1%80%D1%82%209f9a222b4ab344e1a8850764790e2b53.md)
-
-[Что такое идентификатор товара?](%D0%A7%D1%82%D0%BE%20%D1%82%D0%B0%D0%BA%D0%BE%D0%B5%20%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0%20bce5090ad9ed40fe8c8be59d7c422f74.md)
-
-[Что такое правила?](%D0%A7%D1%82%D0%BE%20%D1%82%D0%B0%D0%BA%D0%BE%D0%B5%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0%204450694526e84913822c98df9f2375e4.md)
-
-[Что такое словари?](%D0%A7%D1%82%D0%BE%20%D1%82%D0%B0%D0%BA%D0%BE%D0%B5%20%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D0%B8%205ab2571472a749bc846d9f7aac002c1e.md)
-
-[Что такое представления?](%D0%A7%D1%82%D0%BE%20%D1%82%D0%B0%D0%BA%D0%BE%D0%B5%20%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%202eecd4f75a7580929079c3060f904992.md)
-
-### Источники данных о товарах
-
-[Типы источников](%D0%A2%D0%B8%D0%BF%D1%8B%20%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20b5e2bee0a2fc4c1d9f472d9bf88d115e.md)
-
-[Источники данных](%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%204f2e7387f2df4430ae3aa03533b23d4c.md)
-
-[Настройка шаблона при подключении таблицы](%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0%20%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B8%20%D0%BF%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B8%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B%2039c23750d2cf4cefbdb9ab50e01864f9.md)
-
-[Настройка правил загрузки](%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%20%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8%20b0b2d97cad3a4036896cecad534e9201.md)
-
-[Проверка загрузки](%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0%20%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8%203d910655b86d4b14a52afc4bee8c0c3c.md)
-
-[**Настройки обновления каталога**](%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8%20%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3%D0%B0%204a432f56c742406baef003c30958c39d.md)
-
-### Экспорт данных
-
-[Типы экспортов](%D0%A2%D0%B8%D0%BF%D1%8B%20%D1%8D%D0%BA%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BE%D0%B2%2055f50dfa1c0743ac98f4eeabfe630c2d.md)
-
-[Экспорты данных](%D0%AD%D0%BA%D1%81%D0%BF%D0%BE%D1%80%D1%82%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20cf1ee31a29e74823b01b4bf20d97ce18.md)
-
-[Настройка фильтров](%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0%20%D1%84%D0%B8%D0%BB%D1%8C%D1%82%D1%80%D0%BE%D0%B2%2067018db9aca848158452fe98eb821a4f.md)
-
-[Связывание категорий](%D0%A1%D0%B2%D1%8F%D0%B7%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B9%202d6664c987e34fef8e1a66fdeda48d36.md)
-
-[Настройка правил экспорта](%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%20%D1%8D%D0%BA%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B0%20c30f8e3ce1464c91b12b00c21c6e73dd.md)
-
-[Проверка экспорта](%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0%20%D1%8D%D0%BA%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B0%20f6ed5bb4a72143dead100cde18c96a63.md)
-
-[Выгрузка данных](%D0%92%D1%8B%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%2033ff609e82134fd68b0a73f1c1cf4fa0.md)
-
-### Настройка
-
-[Установка периода загрузки и выгрузки](%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%D0%B0%20%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8%20%D0%B8%20%D0%B2%D1%8B%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8%20ae091356aa8d43db90f55a187b85afff.md)
-
-[Добавление пользователей](%D0%94%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%209ddeb7e6fe8444bd9f9f5b61e7d7da9f.md)
-
-[Создание и редактирование словарей](%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BF%D0%B8%D0%B8%20%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B0%20%D1%81%20%D1%81%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC%20%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA%20%D0%B0%D1%82%20b7c5b990610249c48c8e8323cd1793da.md)
-
-[Подключение к Ozon](%D0%9F%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%20Ozon%2081f8f406d0e74baf842e55069b71c805.md)
-
-[Подключение к Wildberries](%D0%9F%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%20Wildberries%2086f42eb5b1b043fb8a21d84444bc2411.md)
-
-[Подключение к Яндекс Маркет](%D0%9F%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82%20aad930a691e24243994a4ea083d26e7b.md)
-
-[Подключение к МегаМаркет](%D0%9F%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%20%D0%9C%D0%B5%D0%B3%D0%B0%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82%20cabc87ea1a2845ec8e6bb4bf84d4ad76.md)
-
-[Подключение к Google таблицам](%D0%9F%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%20Google%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0%D0%BC%20264cd4f75a758058bceae1f85ce5182a.md)
-
-[Подключение к 1С](%D0%9F%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%201%D0%A1%200dcef1f272744a92aa0b4c07aa0dee5d.md)
-
-[Подключение API источника](%D0%9F%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20API%20%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B0%20fcf8690cf8864e6ab748be1352977249.md)
-
-[Включить отображение фото в каталоге товаров, если их не видно](%D0%92%D0%BA%D0%BB%D1%8E%D1%87%D0%B8%D1%82%D1%8C%20%D0%BE%D1%82%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%84%D0%BE%D1%82%D0%BE%20%D0%B2%20%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3%D0%B5%20%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%BE%D0%B2,%20%D0%B5%D1%81%D0%BB%D0%B8%2051bbac177d024dce967319439e5e1152.md)
-
-[Создание копии источника с сохранением настроек атрибутов](%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BF%D0%B8%D0%B8%20%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B0%20%D1%81%20%D1%81%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC%20%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA%20%D0%B0%D1%82%20b7c5b990610249c48c8e8323cd1793da.md)
-
-### Дополнительные функции
-
-[Что такое аналитика контента?](%D0%A7%D1%82%D0%BE%20%D1%82%D0%B0%D0%BA%D0%BE%D0%B5%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82%D0%B0%2027acd4f75a758043b8c5cbd29c117e5d.md)
-
-[Что такое статистика заказов?](%D0%A7%D1%82%D0%BE%20%D1%82%D0%B0%D0%BA%D0%BE%D0%B5%20%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2%2027acd4f75a7580659778d24d58e83d80.md)
-
-[Что такое сборочные заказы? ](%D0%A7%D1%82%D0%BE%20%D1%82%D0%B0%D0%BA%D0%BE%D0%B5%20%D1%81%D0%B1%D0%BE%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B5%20%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%8B%2027acd4f75a758051adefdb81a9266a88.md)
-
-### Справочник по правилам
-
-[Базовые операции](%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8%20439093b3ec964038a78d33a408aac5df.md)
-
-[Объединение полей](%D0%9E%D0%B1%D1%8A%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BE%D0%BB%D0%B5%D0%B9%20475b7300b7ae488c80a4db78d81ad358.md)
-
-[Арифметические операции](%D0%90%D1%80%D0%B8%D1%84%D0%BC%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8%20ba7357b08f374a3683273fb7316f6867.md)
-
-[Операторы сравнения и условия](%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B%20%D1%81%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B8%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%2081145fd2d94e4bc681feea181e3621be.md)
-
-[Часто используемые функции](%D0%A7%D0%B0%D1%81%D1%82%D0%BE%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B5%D0%BC%D1%8B%D0%B5%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8%201899298d64f64fcbbc1bb3429125ee42.md)
-
-[Работа со словарями](%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%D0%BE%20%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8F%D0%BC%D0%B8%203c50213a46c140f793468d8b5c28fadd.md)
-
-### Частые задачи
-
-[Как произвести выборочный экспорт товаров](%D0%9A%D0%B0%D0%BA%20%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%B8%20%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20%D1%8D%D0%BA%D1%81%D0%BF%D0%BE%D1%80%D1%82%20%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%BE%D0%B2%20230737781a784b22b3199f40f509a63d.md)
-
-[Как обновить остатки товаров в каталоге Databird](%D0%9A%D0%B0%D0%BA%20%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C%20%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%BA%D0%B8%20%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%BE%D0%B2%20%D0%B2%20%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3%D0%B5%20Databird%20e0b2e0747def4f979bd57e3712d5b8c7.md)
-
-[Перенос карточки товара из OZON в Wildberries](%D0%9F%D0%B5%D1%80%D0%B5%D0%BD%D0%BE%D1%81%20%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B8%20%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0%20%D0%B8%D0%B7%20OZON%20%D0%B2%20Wildberries%20b6b71cb81049496bb4d673c8f61c628a.md)
-
-[Перенос карточки товара из Wildberries в OZON](%D0%9F%D0%B5%D1%80%D0%B5%D0%BD%D0%BE%D1%81%20%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B8%20%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0%20%D0%B8%D0%B7%20Wildberries%20%D0%B2%20OZON%205a6c7520b2c042658836d3a45f74da6a.md)
-
-[Как получить категорию товара из другого атрибута](%D0%9A%D0%B0%D0%BA%20%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C%20%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8E%20%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0%20%D0%B8%D0%B7%20%D0%B4%D1%80%D1%83%D0%B3%D0%BE%D0%B3%D0%BE%20%D0%B0%D1%82%D1%80%D0%B8%D0%B1%D1%83%D1%82%D0%B0%208f52ae51a8ff4421b8cfe9d5d90a81b3.md)
-
-[Выгрузка ассортимента в МегаМаркет](%D0%92%D1%8B%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20%D0%B0%D1%81%D1%81%D0%BE%D1%80%D1%82%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%20%D0%B2%20%D0%9C%D0%B5%D0%B3%D0%B0%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82%2048d79b9b711f4a5b8432d24b0658a82d.md)
-
-[Настройка с**инхронизации заказов и остатков**](%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0%20%D1%81%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2%20%D0%B8%20%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%BA%D0%BE%D0%B2%2027ad4cb94e984e69b759a6a2782464b9.md)
