@@ -1,8 +1,5 @@
 # Документация Databird
 
-<img width="243" height="205" alt="image" src="https://github.com/user-attachments/assets/23aeeb4b-28f5-4b3a-9978-30353c5ae4b7" />
-
-
 
 ### Общие принципы
 
