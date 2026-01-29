@@ -10,7 +10,7 @@
 
 Для начала производим стандартное связывание категорий во кладке “Категории”.
 
-![Untitled](Untitled%20163.png)
+![Untitled](%D0%9F%D0%B5%D1%80%D0%B5%D0%BD%D0%BE%D1%81%20%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B8%20%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0%20%D0%B8%D0%B7%20Wildberries%20%D0%B2%20OZON/Untitled.png)
 
 Подробнее о связывании категорий товаров: 
 
@@ -18,24 +18,24 @@
 
 Далее в подвкладке “Характеристики” находим поле экспорта “Тип” и переходим в его настройки.
 
-![Untitled](Untitled%20164.png)
+![Untitled](%D0%9F%D0%B5%D1%80%D0%B5%D0%BD%D0%BE%D1%81%20%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B8%20%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0%20%D0%B8%D0%B7%20Wildberries%20%D0%B2%20OZON/Untitled%201.png)
 
 Присваиваем ему значение категории товара и сохраняем.
 
-![Untitled](Untitled%20165.png)
+![Untitled](%D0%9F%D0%B5%D1%80%D0%B5%D0%BD%D0%BE%D1%81%20%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B8%20%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0%20%D0%B8%D0%B7%20Wildberries%20%D0%B2%20OZON/Untitled%202.png)
 
 Спускаемся ниже, к окну корректировок.
 
-![Untitled](Untitled%20166.png)
+![Untitled](%D0%9F%D0%B5%D1%80%D0%B5%D0%BD%D0%BE%D1%81%20%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B8%20%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0%20%D0%B8%D0%B7%20Wildberries%20%D0%B2%20OZON/Untitled%203.png)
 
 Посмотреть ограничения поля “Тип” можно выбрав вкладку “Ограничения” в левой части экрана.
 
-![Untitled](Untitled%20167.png)
+![Untitled](%D0%9F%D0%B5%D1%80%D0%B5%D0%BD%D0%BE%D1%81%20%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B8%20%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0%20%D0%B8%D0%B7%20Wildberries%20%D0%B2%20OZON/Untitled%204.png)
 
 Щелчком по кнопке “Добавить” настройте корректировки удовлетворяющие ограничениям поля “Тип”.
 
-![Untitled](Untitled%20168.png)
+![Untitled](%D0%9F%D0%B5%D1%80%D0%B5%D0%BD%D0%BE%D1%81%20%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B8%20%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0%20%D0%B8%D0%B7%20Wildberries%20%D0%B2%20OZON/Untitled%205.png)
 
 Сохраняйте результат, заполняете оставшиеся поля и производите тестовый экспорт.
 
-![Untitled](Untitled%20169.png)
+![Untitled](%D0%9F%D0%B5%D1%80%D0%B5%D0%BD%D0%BE%D1%81%20%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B8%20%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0%20%D0%B8%D0%B7%20Wildberries%20%D0%B2%20OZON/Untitled%206.png)

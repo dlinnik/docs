@@ -2,19 +2,19 @@
 
 Чтобы добавить нового пользователя в ваш Databird аккаунт следует в левом окне сайта выбрать вкладку **“Пользователи”**.
 
-![Untitled](Untitled%2058.png)
+![Untitled](%D0%94%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9/Untitled.png)
 
 На отрывшейся странице будут отображаться уже имеющиеся пользователи.Нажмите на кнопку *“Добавить пользователя”* в правом верхнем углу страницы, чтобы добавить нового. 
 
-![Untitled](Untitled%2059.png)
+![Untitled](%D0%94%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9/Untitled%201.png)
 
 В открывшемся окне *“Добавление пользователя”* следует заполнить все поля. Логин и пароль будут использоваться новым пользователем для входа в Databird, их нужно запомнить.
 
-![Untitled](Untitled%2060.png)
+![Untitled](%D0%94%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9/Untitled%202.png)
 
 В четвертом поле требуется определить роль нового пользователя, из выпадающего списка выберите одну.
 
-![Untitled](Untitled%2061.png)
+![Untitled](%D0%94%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9/Untitled%203.png)
 
 Подробнее о каждой роли: 
 
@@ -24,8 +24,8 @@
 
 Когда все поля будут заполнены, нажмите на кнопку *“Сохранить”*.
 
-![Untitled](Untitled%2062.png)
+![Untitled](%D0%94%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9/Untitled%204.png)
 
 Таким образом вы добавили нового пользователя на Databird
 
-![Untitled](Untitled%2063.png)
+![Untitled](%D0%94%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9/Untitled%205.png)
