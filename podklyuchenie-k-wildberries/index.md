@@ -3,7 +3,7 @@ layout: default
 title: 
 ---
 
-# 
+# Подключение к Wildberries
 
 Для подключения маркетплейса Wildberries к сервису Databird нужно заполнить обязательное поле “Токен Wildberries”
 
