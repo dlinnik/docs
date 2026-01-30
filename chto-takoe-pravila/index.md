@@ -21,9 +21,9 @@ title: ?
 
 Справочник по правилам и языку JSONata можно найти в 6 главе Документации пользователя:
 
-[](/nastroyka-pravil-zagruzki/)
+[Настройка правил загрузки](/nastroyka-pravil-zagruzki/)
 
-[](/nastroyka-pravil-eksporta/)
+[Настройка правил экспорта](/nastroyka-pravil-eksporta/)
 
 
 

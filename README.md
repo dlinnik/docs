@@ -22,7 +22,7 @@ title: "Заголовок статьи"
 
 - Правила для `slug`: только латинские строчные буквы, цифры и дефисы (`-`).
 - Ресурсы (изображения, файлы) кладите в ту же папку и используйте относительные ссылки, например: `![alt](./image.png)`.
-- Для синтаксиса Markdown используйте руководство GitHub: https://docs.github.com/en/get-started/writing-on-github/basic-writing-and-formatting-syntax
+- Для синтаксиса Markdown используйте руководство GitHub: https://docs.github.com/ru/get-started/writing-on-github
 
 ## Создание новой статьи
 

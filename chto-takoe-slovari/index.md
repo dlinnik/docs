@@ -15,9 +15,9 @@ title: ?
 
 🔗 ****Связанные разделы:
 
-[](/sozdanie-i-redaktirovanie-slovarey/)
+[Создание и редактирование словарей](/sozdanie-i-redaktirovanie-slovarey/)
 
-[](/rabota-so-slovaryami/)
+[Работа со словарями](/rabota-so-slovaryami/)
 
 
 
