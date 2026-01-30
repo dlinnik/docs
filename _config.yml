@@ -1,0 +1,25 @@
+title: "Документация Databird"
+description: "Руководство и справочные материалы по Databird"
+lang: ru-RU
+theme: minima
+baseurl: ""
+# Prevent Jekyll from processing migration artifacts or backups
+exclude:
+  - migration-backup-*/
+  - migration-report-*.txt
+  - migration-mapping-*.json
+  - migration-mapping-*.txt
+
+# Default front matter for migrated pages so they render correctly
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+      permalink: "/:path/"
+
+# Markdown engine
+markdown: kramdown
+kramdown:
+  input: GFM

@@ -21,7 +21,8 @@ title: Что такое правила?
 
 Справочник по правилам и языку JSONata можно найти в 6 главе Документации пользователя:
 
-[Настройка правил загрузки](nastroyka-pravil-zagruzki/)
+[Настройка правил загрузки](/nastroyka-pravil-zagruzki/)
 
-[Настройка правил экспорта](nastroyka-pravil-eksporta/)
+[Настройка правил экспорта](/nastroyka-pravil-eksporta/)
+
 
