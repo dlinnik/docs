@@ -1,7 +1,6 @@
 title: "Документация Databird"
 description: "Руководство и справочные материалы по Databird"
 lang: ru-RU
-theme: minima
 baseurl: ""
 # Prevent Jekyll from processing migration artifacts or backups
 exclude:
