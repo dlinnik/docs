@@ -10,16 +10,3 @@ exclude:
   - migration-mapping-*.json
   - migration-mapping-*.txt
 
-# Default front matter for migrated pages so they render correctly
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "default"
-      permalink: "/:path/"
-
-# Markdown engine
-markdown: kramdown
-kramdown:
-  input: GFM
