@@ -16,7 +16,7 @@
 
 [Что такое словари?](/chto-takoe-slovari/)
 
-[Что такое представления?](%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20Databird/%D0%A7%D1%82%D0%BE%20%D1%82%D0%B0%D0%BA%D0%BE%D0%B5%20%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%202eecd4f75a7580929079c3060f904992.md)
+[Что такое представления?](/chto-takoe-predstavleniya/)
 
 ### Источники данных о товарах
 
@@ -76,11 +76,11 @@
 
 ### Дополнительные функции
 
-[Что такое аналитика контента?](%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20Databird/%D0%A7%D1%82%D0%BE%20%D1%82%D0%B0%D0%BA%D0%BE%D0%B5%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82%D0%B0%2027acd4f75a758043b8c5cbd29c117e5d.md)
+[Что такое аналитика контента?](/chto-takoe-analitika-kontenta/)
 
-[Что такое статистика заказов?](%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20Databird/%D0%A7%D1%82%D0%BE%20%D1%82%D0%B0%D0%BA%D0%BE%D0%B5%20%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2%2027acd4f75a7580659778d24d58e83d80.md)
+[Что такое статистика заказов?](/chto-takoe-statistika-zakazov/)
 
-[Что такое сборочные заказы? ](%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20Databird/%D0%A7%D1%82%D0%BE%20%D1%82%D0%B0%D0%BA%D0%BE%D0%B5%20%D1%81%D0%B1%D0%BE%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B5%20%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%8B%2027acd4f75a758051adefdb81a9266a88.md)
+[Что такое сборочные заказы? ](/chto-takoe-sborochnye-zakazy/)
 
 ### Справочник по правилам
 
@@ -92,7 +92,7 @@
 
 [Операторы сравнения и условия](/operatory-sravneniya-i-usloviya/)
 
-[Часто используемые функции](%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20Databird/%D0%A7%D0%B0%D1%81%D1%82%D0%BE%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B5%D0%BC%D1%8B%D0%B5%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8%201899298d64f64fcbbc1bb3429125ee42.md)
+[Часто используемые функции](/chasto-ispolzuemye-funkcii/)
 
 [Работа со словарями](/rabota-so-slovaryami/)
 

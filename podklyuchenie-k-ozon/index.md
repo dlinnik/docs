@@ -1,9 +1,9 @@
 ﻿---
 layout: default
-title: Подключение к Ozon
+title: 
 ---
 
-# Подключение к Ozon
+# 
 
 Для подключения маркетплейса Ozon к сервису Databird нужно заполнить 2 обязательных поля: “ID клиента в OZON” и “Ozon токен”.
 
@@ -59,3 +59,4 @@ title: Подключение к Ozon
 - v1/actions/products
 - v3/product/list
 - v1/actions
+
