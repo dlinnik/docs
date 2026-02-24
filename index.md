@@ -82,6 +82,8 @@
 
 [Что такое сборочные заказы? ](/chto-takoe-sborochnye-zakazy/)
 
+[Что такое генерация данных? ](/chto-takoe-generatsia-dannih/)
+
 ### Справочник по правилам
 
 [Базовые операции](/bazovye-operacii/)
