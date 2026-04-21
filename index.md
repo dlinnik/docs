@@ -64,6 +64,8 @@
 
 [Подключение к МегаМаркет](/podklyuchenie-k-megamarket/)
 
+[Подключение к Детский мир](/podklyuchenie-k-dm/)
+
 [Подключение к Google таблицам](/podklyuchenie-k-google-tablicam/)
 
 [Подключение к 1С](/podklyuchenie-k-1s/)
