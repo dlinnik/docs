@@ -20,6 +20,7 @@
 
 [Что такое представление?](/chto-takoe-predstavleniya/)
 
+<br>
 
 ### Источники данных о товарах
 
@@ -33,7 +34,9 @@
 
 [Проверка загрузки](/proverka-zagruzki/)
 
-[**Настройки обновления каталога**](/nastroyki-obnovleniya-kataloga/)
+[Настройки обновления каталога](/nastroyki-obnovleniya-kataloga/)
+
+<br>
 
 ### Экспорт данных
 
@@ -51,9 +54,10 @@
 
 [Выгрузка данных](/vygruzka-dannyh/)
 
-
+<br>
 
 ### Работа через представления каталога
+
 [Инструменты каталога](/chto-takoe-instumenti/)
 
 [Интрумент "Заполнить вкладку"](/instrument-zapolnit-vkladky/)
@@ -64,7 +68,7 @@
 
 [Интрумент "Привязка полей"](/instrument-privyazka-poley/)
 
-
+<br>
 
 ### Настройка
 
@@ -94,7 +98,7 @@
 
 [Создание копии источника с сохранением настроек атрибутов](/sozdanie-kopii-istochnika-s-sohraneniem-nastroek-at/)
 
-
+<br>
 
 ### Дополнительные функции
 
@@ -106,7 +110,7 @@
 
 [Что такое генерация данных? ](/chto-takoe-generatsia-dannih/)
 
-
+<br>
 
 ### Справочник по правилам
 
@@ -122,7 +126,7 @@
 
 [Работа со словарями](/rabota-so-slovaryami/)
 
-
+<br>
 
 ### Частые задачи
 
@@ -138,5 +142,5 @@
 
 [Выгрузка ассортимента в МегаМаркет](/vygruzka-assortimenta-v-megamarket/)
 
-[Настройка с**инхронизации заказов и остатков**](/nastroyka-sinhronizacii-zakazov-i-ostatkov/)
+[Настройка синхронизации заказов и остатков](/nastroyka-sinhronizacii-zakazov-i-ostatkov/)
 
