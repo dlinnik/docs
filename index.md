@@ -16,9 +16,9 @@
 
 [Что такое словари?](/chto-takoe-slovari/)
 
-🆕 [Что такое вкладка?](/chto-takoe-vkladka/)
+[Что такое вкладка?](/chto-takoe-vkladka/)
 
-🆕 [Что такое представление?](/chto-takoe-predstavleniya/)
+[Что такое представление?](/chto-takoe-predstavleniya/)
 
 <br>
 
@@ -102,13 +102,13 @@
 
 ### Дополнительные функции
 
-🆕 [Что такое аналитика контента?](/chto-takoe-analitika-kontenta/)
+[Что такое аналитика контента?](/chto-takoe-analitika-kontenta/)
 
-🆕 [Что такое статистика заказов?](/chto-takoe-statistika-zakazov/)
+[Что такое статистика заказов?](/chto-takoe-statistika-zakazov/)
 
-🆕 [Что такое сборочные заказы? ](/chto-takoe-sborochnye-zakazy/)
+[Что такое сборочные заказы? ](/chto-takoe-sborochnye-zakazy/)
 
-🆕 [Что такое генерация данных? ](/chto-takoe-generatsia-dannih/)
+[Что такое генерация данных? ](/chto-takoe-generatsia-dannih/)
 
 <br>
 
