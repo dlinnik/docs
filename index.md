@@ -140,7 +140,5 @@
 
 [Как получить категорию товара из другого атрибута](/kak-poluchit-kategoriyu-tovara-iz-drugogo-atributa/)
 
-[Выгрузка ассортимента в МегаМаркет](/vygruzka-assortimenta-v-megamarket/)
-
 [Настройка синхронизации заказов и остатков](/nastroyka-sinhronizacii-zakazov-i-ostatkov/)
 
