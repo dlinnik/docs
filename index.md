@@ -25,7 +25,7 @@
 
 [Возможности и преимущества системы](/vozmozhnosti-i-preimushchestva-sistemy/)
 
-[Работа с каталогом](/rabota-s-katalogom/)
+[Каталог товаров](/rabota-s-katalogom/)
 
 [Что такое атрибуты системы?](/chto-takoe-atributy-sistemy/)
 
