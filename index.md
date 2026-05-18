@@ -2,6 +2,7 @@
 
 <details>
   <summary>👁️‍🗨️ История последних обновлений документации</summary>
+  <br>
   <details>
     <summary>Обновление от 12.05.2026</summary>
     <ul>
@@ -15,6 +16,12 @@
         <a href="/instrument-privyazka-kategoriy/">Инструмент "Привязка категорий"</a>, 
         <a href="/instrument-privyazka-poley/">Инструмент "Привязка полей"</a>.</li>
       <li>Удалена статья «Выгрузка ассортимента в МегаМаркет», так как DataBird перешел на выгрузку карточек на ММ по API.</li>
+    </ul>
+  </details>
+  <details>
+   <summary>Обновление от 18.05.2026</summary>
+    <ul>
+      <li>Были актуализированы статьи в разделе "Общие принципы".</li>
     </ul>
   </details>
 </details>
