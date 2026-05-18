@@ -37,9 +37,9 @@
 
 [Что такое словари?](/chto-takoe-slovari/)
 
-[Что такое вкладка?](/chto-takoe-vkladka/)
+🆕 [Что такое вкладка?](/chto-takoe-vkladka/)
 
-[Что такое представление?](/chto-takoe-predstavleniya/)
+🆕 [Что такое представление?](/chto-takoe-predstavleniya/)
 
 <br>
 
@@ -49,13 +49,15 @@
 
 [Источники данных](/istochniki-dannyh/)
 
-[Настройка шаблона при подключении таблицы](/nastroyka-shablona-pri-podklyuchenii-tablicy/)
+🆕 [Настройки вкладки источника](/nastroyki-vkladki/)
+
+[Настройки обновления каталога](/nastroyki-obnovleniya-kataloga/)
 
 [Настройка правил загрузки](/nastroyka-pravil-zagruzki/)
 
 [Проверка загрузки](/proverka-zagruzki/)
 
-[Настройки обновления каталога](/nastroyki-obnovleniya-kataloga/)
+[Настройка шаблона при подключении таблицы](/nastroyka-shablona-pri-podklyuchenii-tablicy/)
 
 <br>
 
