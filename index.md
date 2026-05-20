@@ -134,6 +134,8 @@
 
 [Что такое аналитика контента?](/chto-takoe-analitika-kontenta/)
 
+[Что такое хранилище медиа-контента? ](/chto-takoe-khraniliche-media/)
+
 [Что такое статистика заказов?](/chto-takoe-statistika-zakazov/)
 
 [Что такое сборочные заказы? ](/chto-takoe-sborochnye-zakazy/)
