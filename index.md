@@ -100,7 +100,7 @@
 
 🆕 [Инструменты каталога](/chto-takoe-instumenti/)
 
-[Что такое генерация данных? ](/chto-takoe-generatsia-dannih/)
+🆕 [Что такое история генераций? ](/chto-takoe-generatsia-dannih/)
 
 🆕 [Интрумент "Заполнить вкладку"](/instrument-zapolnit-vkladky/)
 
