@@ -38,8 +38,9 @@
   <details>
    <summary>Обновление от 16.06.2026</summary>
     <ul>
-      <li>В раздел «Дополнительные функции» добавлена новая статья: 
-        <a href="/chto-takoe-vkladka/">Что такое вкладка?</a></li>
+      <li>В раздел «Дополнительные функции» добавлены 2 новые статьи: 
+        <a href="/chto-takoe-vkladka/">Что такое вкладка?</a>
+        <a href="/chto-takoe-predstavleniya/">Что такое представление?</a></li>
     </ul>
   </details>
 </details>
@@ -64,7 +65,7 @@
 
 🆕 [Что такое вкладка?](/chto-takoe-vkladka/)
 
-[Что такое представление?](/chto-takoe-predstavleniya/)
+🆕 [Что такое представление?](/chto-takoe-predstavleniya/)
 
 <br>
 
