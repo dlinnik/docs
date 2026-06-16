@@ -35,6 +35,13 @@
         <a href="/media/">Что такое хранилище медиа-контента?</a></li>
     </ul>
   </details>
+  <details>
+   <summary>Обновление от 16.06.2026</summary>
+    <ul>
+      <li>В раздел «Дополнительные функции» добавлена новая статья: 
+        <a href="/chto-takoe-vkladka/">Что такое вкладка?</a></li>
+    </ul>
+  </details>
 </details>
 
 <br>
@@ -55,7 +62,7 @@
 
 [Что такое словари?](/chto-takoe-slovari/)
 
-[Что такое вкладка?](/chto-takoe-vkladka/)
+🆕 [Что такое вкладка?](/chto-takoe-vkladka/)
 
 [Что такое представление?](/chto-takoe-predstavleniya/)
 
