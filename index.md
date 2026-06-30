@@ -51,6 +51,8 @@
       <li>В раздел «Дополнительные функции» добавлены 2 новые статьи: 
         <a href="/chto-takoe-statistika-zakazov/">Что такое статистика заказов?</a>,
         <a href="/chto-takoe-sborochnye-zakazy/">Что такое сборочные заказы?</a></li>
+      <li>В раздел «Общие принципы» добавлена новая статья: 
+        <a href="/jsonata-v-databird/">Принцип работы JSONata в Databird</a></li>
     </ul>
   </details>
 </details>
@@ -68,6 +70,8 @@
 [Что такое  источник данных и экспорт?](/chto-takoe-istochnik-dannyh-i-eksport/)
 
 [Что такое идентификатор товара?](/chto-takoe-identifikator-tovara/)
+
+🆕 [Принцип работы JSONata в Databird](/jsonata-v-databird/)
 
 [Что такое правила?](/chto-takoe-pravila/)
 
