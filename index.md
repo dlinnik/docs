@@ -38,11 +38,19 @@
   <details>
    <summary>Обновление от 16.06.2026</summary>
     <ul>
-      <li>В раздел «Дополнительные функции» добавлены 2 новые статьи: 
+      <li>В раздел «Общие принципы» добавлены 2 новые статьи: 
         <a href="/chto-takoe-vkladka/">Что такое вкладка?</a>,
         <a href="/chto-takoe-predstavleniya/">Что такое представление?</a></li>
       <li>В раздел «Источники данных о товарах» добавлена новая статья: 
         <a href="/nastroyki-vkladki/">Настройка вкладки источника</a></li>
+    </ul>
+  </details>
+    <details>
+   <summary>Обновление от 30.06.2026</summary>
+    <ul>
+      <li>В раздел «Дополнительные функции» добавлены 2 новые статьи: 
+        <a href="/chto-takoe-statistika-zakazov/">Что такое статистика заказов?</a>,
+        <a href="/chto-takoe-sborochnye-zakazy/">Что такое сборочные заказы?</a></li>
     </ul>
   </details>
 </details>
@@ -161,9 +169,9 @@
 
 🆕 [Что такое хранилище медиа-контента? ](/media/)
 
-[Что такое статистика заказов?](/chto-takoe-statistika-zakazov/)
+🆕 [Что такое статистика заказов?](/chto-takoe-statistika-zakazov/)
 
-[Что такое сборочные заказы? ](/chto-takoe-sborochnye-zakazy/)
+🆕 [Что такое сборочные заказы? ](/chto-takoe-sborochnye-zakazy/)
 
 <br>
 
