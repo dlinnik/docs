@@ -1,0 +1,21 @@
+{
+  "name": "databird-docs-server",
+  "version": "1.0.0",
+  "description": "Локальный сервер документации Databird (рендер Markdown → HTML)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "marked": "^12.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlinnik/docs.git"
+  },
+  "author": "Databird",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=18"
+  }
+}
