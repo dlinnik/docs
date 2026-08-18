@@ -2,11 +2,21 @@ services:
   docs:
     build: .
     container_name: databird-docs
-    ports:
-      # Порт наружу можно изменить через .env: DOCS_PORT=8081
-      - "${DOCS_PORT:-7080}:3000"
+    # Host-сеть: контейнер слушает сеть хоста напрямую.
+    # Сервер слушает только 127.0.0.1:7080 — наружу трафик принимает nginx
+    # (reverse proxy с SSL) и проксирует на 127.0.0.1:7080.
+    # ВАЖНО: в Docker Desktop на Windows host-сеть работает только
+    # для Linux-контейнеров (WSL2).
+    network_mode: host
+    environment:
+      PORT: 7080
+      HOST: 127.0.0.1
     volumes:
       # Корень репозитория монтируется как read-only.
       # После git pull обновлённые доки видны сразу, без пересборки образа.
       - ..:/app/docs:ro
     restart: unless-stopped
+
+    # Если нужен доступ порта наружу напрямую (без nginx):
+    #   - замените network_mode: host на обычный ports: - "7080:7080"
+    #   - либо задайте HOST=0.0.0.0

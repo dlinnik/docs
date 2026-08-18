@@ -3,6 +3,10 @@ const fs = require('fs');
 const path = require('path');
 
 const PORT = process.env.PORT || 7080;
+// По умолчанию слушаем только localhost: снаружи трафик принимает nginx
+// (reverse proxy с SSL) и проксирует на 127.0.0.1:7080.
+// Чтобы открыть порт наружу напрямую: HOST=0.0.0.0
+const HOST = process.env.HOST || '127.0.0.1';
 const DOCS_PATH = process.env.DOCS_PATH || path.resolve(__dirname, '..');
 
 // Стандартный рендер Markdown (GFM: таблицы, зачёркнутый текст, авто-ссылки)
@@ -397,7 +401,10 @@ const server = http.createServer((req, res) => {
   }
 });
 
-server.listen(PORT, '0.0.0.0', () => {
-  console.log(`📚 Документация Databird доступна на http://localhost:${PORT}`);
+server.listen(PORT, HOST, () => {
+  console.log(`📚 Документация Databird доступна на http://${HOST}:${PORT}`);
   console.log(`   Папка с документами: ${DOCS_PATH}`);
+  if (HOST === '127.0.0.1') {
+    console.log('   ⚠️  Слушаем только localhost — наружу трафик должен проксировать nginx.');
+  }
 });
